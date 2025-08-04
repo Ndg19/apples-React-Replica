@@ -1,4 +1,4 @@
-
+import "./Iphonepro.css"
 const IphonePro = () => {
   return (
     <div>

@@ -1,4 +1,4 @@
-
+import "../Alert/AppleAlert.css"
 const AppleAlert = () => {
   return (
   <div>

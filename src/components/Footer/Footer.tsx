@@ -1,4 +1,5 @@
 import flag from "../../assets/images/icons/16.png";
+import "../Footer/Footer.css"
 
 const Footer = () => {
   return (

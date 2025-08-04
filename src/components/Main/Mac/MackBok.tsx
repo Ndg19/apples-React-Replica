@@ -1,4 +1,4 @@
-
+import "../Mac/MacBok.css"
 const MackBok = () => {
   return (
     <div>

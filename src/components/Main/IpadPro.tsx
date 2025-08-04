@@ -20,7 +20,7 @@ const IpadPro = () => {
           </div>
 
           <div className="ipod-caption row">
-            <div className="col-sm-12 col-md-6 text-md-right">
+            <div className="col-sm-12 col-md-6 text-md-right ">
               iPad Pro available starting 3.25
             </div>
             <div className="col-sm-12 col-md-6 text-md-left">
