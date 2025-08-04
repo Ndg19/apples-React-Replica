@@ -4,6 +4,12 @@ import Header from "./components/Header/Header";
 import Footer from "./components/Footer/Footer";
 import AppleAlert from "./components/Main/AppleAlert";
 import IpadPro from "./components/Main/IpadPro";
+import MackBok from "./components/Main/MackBok";
+import IphonePro from "./components/Main/IphonePro";
+import Iphone11 from "./components/Main/Iphone11";
+import Tv_Watch from "./components/Main/Tv_Watch";
+import AppleSpider from "./components/Main/AppleSpider";
+
 
 
 
@@ -14,7 +20,11 @@ function App() {
       <Header />
       <AppleAlert />
       <IpadPro />
-
+      <MackBok />
+      <IphonePro />
+      <Iphone11 />
+      <Tv_Watch />
+      <AppleSpider />
       <Footer />
     </>
   );
