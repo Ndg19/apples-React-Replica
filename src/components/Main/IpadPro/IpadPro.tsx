@@ -1,4 +1,4 @@
-
+import "./Ipadpro.css"
 const IpadPro = () => {
   return (
     <div>

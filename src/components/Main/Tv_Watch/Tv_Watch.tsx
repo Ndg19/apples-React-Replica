@@ -1,6 +1,7 @@
-import  logo from "../../assets/images/icons/apple-tv-logo.png";
-import  banker from "../../assets/images/home/banker.png";
-import  watch from "../../assets/images/icons/watch-series5-logo.png";
+import  logo from "../../../assets/images/icons/apple-tv-logo.png";
+import  banker from "../../../assets/images/home/banker.png";
+import  watch from "../../../assets/images/icons/watch-series5-logo.png";
+import "./Tv-Watch.css"
 const Tv_Watch = () => {
   return (
     <div>

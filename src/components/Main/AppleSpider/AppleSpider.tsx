@@ -1,4 +1,5 @@
-import arcade from "../../assets/images/icons/arcade.png"
+import arcade from "../../../assets/images/icons/arcade.png"
+import "./AppleSpider.css"
 const AppleSpider = () => {
   return (
     <div>
