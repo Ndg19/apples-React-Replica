@@ -1,4 +1,4 @@
-import "./Iphonepro.css"
+import "./IphonePro.css"
 const IphonePro = () => {
   return (
     <div>
@@ -30,4 +30,4 @@ const IphonePro = () => {
   );
 }
 
-export default IphonePro
+export default IphonePro;

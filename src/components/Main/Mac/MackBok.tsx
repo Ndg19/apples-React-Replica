@@ -1,4 +1,4 @@
-import "../Mac/MacBok.css"
+import "./MacBok.css"
 const MackBok = () => {
   return (
     <div>
@@ -30,4 +30,4 @@ const MackBok = () => {
   );
 }
 
-export default MackBok
+export default MackBok;
